@@ -27,8 +27,8 @@ function App() {
     }
   }
 
-  function handleSumit() {
-    console.log("handleSumit")
+  function handleSubmit() {
+       console.log("Hello")
   }
 
   return (
@@ -40,7 +40,7 @@ function App() {
       email={email}
       password={password}
       handleChange={handleChange}
-      handleSumit={handleSumit}
+      handleSubmit={handleSubmit}
      />
     </div>
   );

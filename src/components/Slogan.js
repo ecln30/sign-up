@@ -1,19 +1,5 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 import React from 'react';
-
 
 function Slogan() {
     return ( 
